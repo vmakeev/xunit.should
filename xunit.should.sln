@@ -1,7 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunit.should", "src\xunit.should\xunit.should.csproj", "{9B8FA2B5-6F5A-4A40-8E83-42CB25796BF9}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunit.should", "src\xunit.should\xunit.should.csproj", "{57362E84-0C48-4083-997F-6B220F6F4C98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9B8FA2B5-6F5A-4A40-8E83-42CB25796BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9B8FA2B5-6F5A-4A40-8E83-42CB25796BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9B8FA2B5-6F5A-4A40-8E83-42CB25796BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9B8FA2B5-6F5A-4A40-8E83-42CB25796BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57362E84-0C48-4083-997F-6B220F6F4C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57362E84-0C48-4083-997F-6B220F6F4C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57362E84-0C48-4083-997F-6B220F6F4C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57362E84-0C48-4083-997F-6B220F6F4C98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0BACD8F-3A86-46D9-8C0A-0BDFBD4CDD1E}
 	EndGlobalSection
 EndGlobal

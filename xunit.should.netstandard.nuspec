@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>xunit.should.netstandard</id>
+    <version>1.0</version>
+    <title>XUnit Should (.NET Standard)</title>
+    <authors>Vladimir Makeev</authors>
+    <owners>Cristian Prieto</owners>
+    <projectUrl>https://github.com/vmakeev/xunit.should</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Should extensions for the XUnit framework (.NET Standard)</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>should xunit dotnetstandard netstandard standard</tags>
+  </metadata>
+</package>
